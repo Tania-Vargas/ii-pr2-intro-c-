@@ -9,10 +9,16 @@
 
 ### Escena 2
 *En la escena 2 se han implementado los ejercicios del 2 al 7*
-- **Ejercicio 2**:
+- **Ejercicio 2**: En esta escena, se crean los cuatro elementos solicitados (plano, esfera, cubo y cilindro). A cada uno se le asigna un nombre, una etiqueta y un material para personalizarlos. Además, se les añade como componente el script *ej2*, el cual obtiene el nombre de cada objeto y lo muestra en la consola.
+
+    ![ejercicio_2](./gif/ii-pr2-ejercicio2.gif)
+  
 - **Ejercicio 3**:
+    ![ejercicio_3](./gif/ii-pr2-ejercicio3.gif)
 - **Ejercicio 4**:
+    ![ejercicio_4](./gif/ii-pr2-ejercicio4.gif)
 - **Ejercicio 5**:
+    ![ejercicio_5](./gif/ii-pr2-ejercicio5.gif)
 - **Ejercicio 6**:
 - **Ejercicio 7**:
 ### Escenario 3

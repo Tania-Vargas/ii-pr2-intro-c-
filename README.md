@@ -35,7 +35,7 @@
   
 ### Escenario 3
 *En la escena 3 se ha implementado el ejercicio 8*
-- **Ejercicio 8**: Para evitar saturar la escena anterior, se crea una nueva escena en la que se añaden cinco esferas y un cubo. De las cinco esferas, dos tienen la etiqueta "tipo_1" y tres la etiqueta "tipo_2". El objetivo es cambiar el color de la esfera de "tipo_2" más lejana al cubo, y elevar la esfera de "tipo_2" más cercana al cubo (modificando su componente *y*). Para lograr esto, el script *ej8* se asocia al cubo. En el script, se obtienen todas las esferas con la etiqueta "tipo_2" y se almacenan en un vector. Luego, se recorre este vector en un bucle para encontrar las esferas más cercana y más lejana al cubo. Una vez identificadas, se aplican los cambios solicitados: la esfera más cercana se eleva y la más lejana cambia de color.
+- **Ejercicio 8**: Para evitar saturar la escena anterior, se crea una nueva escena en la que se añaden cinco esferas y un cubo. De las cinco esferas, dos tienen la etiqueta "tipo_1" y tres la etiqueta "tipo_2". El objetivo es cambiar el color de la esfera de "tipo_2" más lejana al cubo, y elevar la esfera de "tipo_2" más cercana al cubo (modificando su componente *y*). Para lograr esto, el script *ej8* se asocia al cubo. En el script, se obtienen todas las esferas con la etiqueta "tipo_2" y se almacenan en un vector. Luego, se recorre este vector en un bucle para encontrar las esferas más cercana y más lejana al cubo. Una vez identificadas, se aplican los cambios solicitados: la esfera más cercana se eleva y la más lejana cambia de color (*Este tarda un poco en verse en el gif el cambio*).
   
     ![ejercicio_8](./gif/ii-pr2-ejercicio8.gif)
 
